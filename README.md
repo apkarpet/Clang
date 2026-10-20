@@ -1,6 +1,6 @@
-# 🍝 The Kitchen
+# The C Foundations
 
-Welcome to my C programming repository. This is where I build structured algorithms, manage manual memory, and refine my low-level programming skills.
+Welcome to my C programming repository. This is where I built structured algorithms, managed manual memory, and refined my low-level programming skills in my first year of university.
 
 ---
 
